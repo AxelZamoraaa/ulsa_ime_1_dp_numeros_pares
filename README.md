@@ -2,7 +2,7 @@
 ## 1. Descripción del problema (Fase 1)
 <!-- Explica con tus palabras qué hace tu programa y para qué serviría en la vida real. Máximo 4 líneas. -->
 
-_____
+Ientifica en una serie de numeros cuales de estos son pares, y creo que serivira para poder identificar este tipo de numeros en un caso como de una empresa que identifique como los que asistierona trabajar con un numero para y los que no vinieron con un numero impar
 
 ## 2. Entradas y salidas (Fase 1)
 <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
