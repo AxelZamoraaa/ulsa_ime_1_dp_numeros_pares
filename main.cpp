@@ -18,7 +18,7 @@ int main() {
             totalpares = totalpares + 1;
         }
         contador = contador + 1;
-
+    }
     std::cout << "Pares encontrados: " << totalpares << "\n";
     
     int i = 0;
